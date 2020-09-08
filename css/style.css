@@ -189,7 +189,7 @@ transform:translateY(-10px);
       font-size:38px;
       overflow:hidden;
       padding-right:24px;
-      margin-top:5px;
+      margin-top:7px;
       
       
       
@@ -200,7 +200,7 @@ transform:translateY(-10px);
       margin-top:0px;
       height: 80px;
       width:70px;
-     
+     margin-bottom:15px;
         
   }
   
@@ -226,7 +226,7 @@ transform:translateY(-10px);
   }
     .topnav a{
       padding:5px 5px;
-      font-size:15px;
+      font-size:16px;
     }
    
   /* Large devices (desktops, 992px and up) */
