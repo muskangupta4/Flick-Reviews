@@ -186,7 +186,7 @@ transform:translateY(-10px);
     h1{
       color: rgb(221, 123, 123);
       font-family: 'Dancing Script', cursive;
-      font-size:55px;
+      font-size:25px;
       overflow:hidden;
       padding-right:24px;
       
@@ -197,7 +197,8 @@ transform:translateY(-10px);
     #popcorn{
       margin-left: 18px;
       margin-top:0px;
-      height: 10px;
+      height: 80px;
+      width:30px;
      
         
   }
