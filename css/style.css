@@ -186,7 +186,7 @@ transform:translateY(-10px);
     h1{
       color: rgb(221, 123, 123);
       font-family: 'Dancing Script', cursive;
-      font-size:25px;
+      font-size:35px;
       overflow:hidden;
       padding-right:24px;
       
@@ -198,7 +198,7 @@ transform:translateY(-10px);
       margin-left: 18px;
       margin-top:0px;
       height: 80px;
-      width:30px;
+      width:70px;
      
         
   }
@@ -223,6 +223,10 @@ transform:translateY(-10px);
     font-size:10px;
    
   }
+    .topnav a{
+      padding:5px 5px;
+      font-size:10px;
+    }
    
   /* Large devices (desktops, 992px and up) */
   @media (min-width: 992px) { 
